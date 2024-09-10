@@ -54,6 +54,7 @@ body {
     max-width: 1200px;
     margin: 40px auto;
     padding: 0 20px;
+   
 
 }
 
@@ -104,6 +105,7 @@ body {
 
 .image-figure {
     margin: 20px 0;
+    margin-left: 150px;
 }
 
 .article-image {
@@ -115,7 +117,7 @@ body {
 .image-caption {
     text-align: center;
     font-size: 0.9em;
-    color: #666;
+    color: #000000;
     margin-top: 5px;
 }
 
@@ -178,4 +180,9 @@ body {
 .footer-copy {
     font-size: 0.9em;
     color: #ccc;
+}
+
+.about-video {
+    margin-left: 50%;
+    border-radius: 15px;
 }
